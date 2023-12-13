@@ -1,3 +1,6 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .btn{
     background-color: #FF589B;
     border:none;
@@ -52,4 +55,10 @@
     height:28rem;
     padding-top: 14rem;
     margin-top: 4rem;
+}
+p{
+    color:gray;
+}
+.i{
+    width:30rem;
 }
