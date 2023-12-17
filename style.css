@@ -62,3 +62,6 @@ p{
 .i{
     width:30rem;
 }
+.footer form input{
+    border:none;
+}
